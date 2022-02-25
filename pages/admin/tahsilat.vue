@@ -3,7 +3,7 @@
     <b-table :data="workerCollectedList" :bordered="false">
       <b-table-column field="workerName" label="Kullanıcı" v-slot="props">
         {{ props.row.workerName}}
-      </b-table-column>
+      </b-table-column>dagitim
       <b-table-column field="cash" label="Nakit" v-slot="props">
         {{ props.row.cash }} TL
       </b-table-column>
@@ -24,7 +24,7 @@
 export default {
   data() {
     return {
-      workers: ["yonetim", "dagitim", "dagitim1", "Toplam"],
+      workers: ["yonetim", "levent", "Toplam"],
       workerCollectedList: []
     };
   },
