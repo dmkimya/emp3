@@ -10,10 +10,7 @@
         <b>Yonetim:</b> <input ref="yonetim" type="checkbox" value="yonetim" />
       </div>
       <div style="min-width:5rem;" class="my-2">
-        <b>Dagıtım:</b> <input ref="dagitim" type="checkbox" value="dagitim" />
-      </div>
-        <div style="min-width:5rem;" class="my-2">
-        <b>Dagıtım1:</b> <input ref="dagitim1" type="checkbox" value="dagitim1" />
+        <b>Dagıtım:</b> <input ref="levent" type="checkbox" value="levent" />
       </div>
     </div>
     <b-table
