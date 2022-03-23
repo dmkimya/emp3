@@ -49,40 +49,40 @@ export default {
       let docDefinition = {
         content: [
           {
-            text: "DM KİMYA MÜŞTERİ BİLGİLENDİRME FORMU",
+            text: "REVOLİN MÜŞTERİ BİLGİLENDİRME FORMU",
             style: "header",
             alignment: "center"
           },
           {
-            text: [{ text: `TEL1: `, bold: "true" }, `0224 250 8935`],
+            text: [{ text: `TEL1: `, bold: "true" }, `0505 543 09 77`],
             style: "info"
           },
-          {
-            text: [{ text: `TEL2: `, bold: "true" }, `0544 250 8935`],
-            style: "info"
-          },
-          {
-            text: [{ text: `TEL3: `, bold: "true" }, `0545 250 8935`],
-            style: "info"
-          },
-          {
-            text: `Ayşe DEMİR Türkiye İş Bankası `,
-            style: "iban"
-          },
-          {
-            text: [
-              { text: `İBAN:  `, bold: "true" },
-              `TR200006400000122060670122`
-            ],
-            style: "ibanno"
-          },
-          {
-            text: [
-              { text: "ADRES: ", bold: "true" },
-              `Çınarönü mahallesi 1.adil sokak no:13 YILDIRIM/BURSA`
-            ],
-            style: "adres"
-          },
+          // {
+          //   text: [{ text: `TEL2: `, bold: "true" }, `0544 250 8935`],
+          //   style: "info"
+          // },
+          // {
+          //   text: [{ text: `TEL3: `, bold: "true" }, `0545 250 8935`],
+          //   style: "info"
+          // },
+          // {
+          //   text: `Ayşe DEMİR Türkiye İş Bankası `,
+          //   style: "iban"
+          // },
+          // {
+          //   text: [
+          //     { text: `İBAN:  `, bold: "true" },
+          //     `TR200006400000122060670122`
+          //   ],
+          //   style: "ibanno"
+          // },
+          // {
+          //   text: [
+          //     { text: "ADRES: ", bold: "true" },
+          //     `Çınarönü mahallesi 1.adil sokak no:13 YILDIRIM/BURSA`
+          //   ],
+          //   style: "adres"
+          // },
           { text: "Firma Bilgileri", style: "subheader" },
 
           {
